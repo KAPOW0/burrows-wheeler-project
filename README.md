@@ -2,8 +2,8 @@
 Implementation of Burrows-Wheeler data compression algorithm, including:
 
 * Move-to-front encoding and decoding
+* Circular suffix array implementation, including sorting
 * Burrows–Wheeler transform
-* Sorting a circular suffix array
 * Key-index sort
 
 Project provided as extra work in high school.  
