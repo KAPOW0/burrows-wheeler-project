@@ -1,4 +1,4 @@
-# Burrows Wheeler Project
+# Burrows-Wheeler Project
 Implementation of Burrows-Wheeler data compression algorithm, including:
 
 * Move-to-front encoding and decoding
